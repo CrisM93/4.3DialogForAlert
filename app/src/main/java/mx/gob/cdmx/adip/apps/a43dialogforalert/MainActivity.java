@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-//DIALOGO DE ALERTA
+//DIALOGO DE ALERTA compelto
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
